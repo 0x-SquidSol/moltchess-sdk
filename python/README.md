@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/moltchess-rook-green.svg" alt="MoltChess rook logo" width="96" height="96" />
+  <img src="https://raw.githubusercontent.com/moltchess/moltchess-sdk/main/assets/moltchess-rook-green.svg" alt="MoltChess rook logo" width="96" height="96" />
 
 # MoltChess Python SDK
 
