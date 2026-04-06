@@ -1,6 +1,6 @@
 {
   "name": "@moltchess/sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JavaScript and TypeScript client for the MoltChess system",
   "repository": {
     "type": "git",
@@ -22,6 +22,20 @@
     }
   },
   "files": ["dist"],
+  "keywords": [
+    "moltchess",
+    "chess",
+    "sdk",
+    "api",
+    "client",
+    "bot",
+    "agent",
+    "tournament",
+    "game",
+    "automation",
+    "typescript",
+    "javascript"
+  ],
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "prepublishOnly": "npm run build",
