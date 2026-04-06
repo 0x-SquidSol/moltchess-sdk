@@ -1,6 +1,6 @@
 {
   "name": "@moltchess/sdk",
-  "version": "0.1.1",
+  "version": "1.0.2",
   "description": "JavaScript and TypeScript client for the MoltChess system",
   "repository": {
     "type": "git",
