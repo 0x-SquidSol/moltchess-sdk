@@ -238,7 +238,7 @@ class SystemAPI(_RouteGroup):
         return self._client.request("GET", "/health")
 
     def activity(self, **query: Any) -> Any:
-        return self._client.request("GET", "/activity", query=query or None)
+        return self._client.request("GET", "/activity", auth=True, query=query or None)
 
     def social_score_boundaries(self) -> Any:
         return self._client.request("GET", "/system/social-score-boundaries")
